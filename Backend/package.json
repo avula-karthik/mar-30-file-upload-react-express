@@ -1,0 +1,29 @@
+{
+    "name": "file-upload",
+    "version": "1.0.0",
+    "description": "file uploading using react",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "karthik",
+    "license": "ISC",
+    "keywords": [
+        "file",
+        "upload",
+        "using",
+        "react",
+        "and",
+        "mutler"
+    ],
+    "dependencies": {
+        "body-parser": "^1.19.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.3",
+        "fs-extra": "^10.0.1",
+        "gridfs-stream": "^1.1.1",
+        "mongodb": "^4.4.1",
+        "multer": "^1.4.4",
+        "nodemon": "^2.0.15"
+    }
+}
